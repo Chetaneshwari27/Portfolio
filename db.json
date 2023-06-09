@@ -1,0 +1,39 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "title": "Hello, I am Chetu",
+      "description": "I'm am Traninee Software Engineer at Precious Infosystem"
+    }
+  ],
+  "skills":[
+    {"id": 1, "name": "HTML"},
+    {"id": 2, "name": "CSS"},
+    {"id": 3, "name": "Javascript"},
+    {"id": 4, "name": "Reactjs"},
+    {"id": 5, "name": "Java"},
+    {"id": 6, "name": "MySql"}
+  ],
+  "services":[
+    {
+      "title": "Web Design",
+      "description": "We create beautiful and responsive web designs tailored to your needs."
+    },
+    {
+      "title": "Web Development",
+      "description": "We develop custom web applications using the latest technologies."
+    },
+    {
+      "title": "Graphic Design",
+      "description": "We provide stunning graphic design services for your branding and marketing needs."
+    }
+  ],
+  "contact":[
+    {
+      "firstname":"Chetu",
+      "lastname":"vyas",
+      "phone":"45858392343",
+      "msg":"hello"
+    }
+  ]
+}
